@@ -1,4 +1,4 @@
-#dainiknews.
+#dainiknews
 
 A new Flutter project.
 
